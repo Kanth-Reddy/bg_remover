@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#box{
+    width: 500px;
+    height: 500px;
+}
+
+.main-bg {
+    background-image : url(img-1.jpg);
+    background-size : cover;
+    height : 100vh;
+    width : 100%;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+}
+
+img {
+    margin-top : -460px;
+    border-style : solid;
+}
